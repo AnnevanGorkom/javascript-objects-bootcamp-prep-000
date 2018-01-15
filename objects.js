@@ -1,1 +1,1 @@
-var playlist = {London Grammar: "Oh Woman Oh Man"};
+var playlist = {"London Grammar": "Oh Woman Oh Man"};
